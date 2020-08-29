@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\AACHU"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\NXToption"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web"
+	}
+}

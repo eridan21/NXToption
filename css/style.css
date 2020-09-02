@@ -108,12 +108,12 @@ nav {
 
 #logo a {
 	float: left;
-    font-size: .75em;
-    font-weight: 600;
+    font-size: .92em;
+    font-weight: 610;
     display: initial;
     margin: 0;
-    letter-spacing: 1px;
-    color: #fff;
+    letter-spacing: 2px;
+    color: #FFF;
     padding: 0px 0;
     border: none;
     text-transform: capitalize;
@@ -390,7 +390,7 @@ li > a:only-child:after { content: ''; }
 .w3ls_banner_txt p {
     color: #eee;
     text-transform: capitalize;
-    font-size: 15px;
+    font-size: 20px;
 }
 body,
 html {
